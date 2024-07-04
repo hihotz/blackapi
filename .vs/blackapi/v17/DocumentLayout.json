@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\blackapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\example.appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\example.appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\blackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\blackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\example.appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\example.appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "blackapi\\appsettings.Development.json",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\appsettings.Development.json",
+              "RelativeToolTip": "blackapi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T05:13:49.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "example.appsettings.json",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\example.appsettings.json",
+              "RelativeDocumentMoniker": "blackapi\\example.appsettings.json",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\example.appsettings.json",
+              "RelativeToolTip": "blackapi\\example.appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T05:13:43.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "example.appsettings.Development.json",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\example.appsettings.Development.json",
+              "RelativeDocumentMoniker": "blackapi\\example.appsettings.Development.json",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\example.appsettings.Development.json",
+              "RelativeToolTip": "blackapi\\example.appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T05:13:42.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\appsettings.json",
+              "RelativeDocumentMoniker": "blackapi\\appsettings.json",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\appsettings.json",
+              "RelativeToolTip": "blackapi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T05:12:33.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "blackapi.http",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\blackapi.http",
+              "RelativeDocumentMoniker": "blackapi\\blackapi.http",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\blackapi.http",
+              "RelativeToolTip": "blackapi\\blackapi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-04T05:12:29.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
