@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Github\\blackapi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\blackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\blackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\example.appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\example.appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\blackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\blackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\migrations\\20240704063435_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\migrations\\20240704063435_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\example.appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,11 +58,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "blackapi\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "blackapi\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:19:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "blackapi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "blackapi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:37:28.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240704063435_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Migrations\\20240704063435_InitialCreate.cs",
+              "RelativeDocumentMoniker": "blackapi\\Migrations\\20240704063435_InitialCreate.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Migrations\\20240704063435_InitialCreate.cs",
+              "RelativeToolTip": "blackapi\\Migrations\\20240704063435_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:34:36.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "blackapi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "blackapi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:04:24.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "blackapi\\Models\\User.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Models\\User.cs",
+              "RelativeToolTip": "blackapi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:51:32.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Program.cs",
+              "RelativeDocumentMoniker": "blackapi\\Program.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Program.cs",
+              "RelativeToolTip": "blackapi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:39:54.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "blackapi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "blackapi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:29:13.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "blackapi\\appsettings.Development.json",
@@ -46,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "example.appsettings.json",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\example.appsettings.json",
               "RelativeDocumentMoniker": "blackapi\\example.appsettings.json",
@@ -54,12 +169,11 @@
               "RelativeToolTip": "blackapi\\example.appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T05:13:43.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T05:13:43.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "example.appsettings.Development.json",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\example.appsettings.Development.json",
               "RelativeDocumentMoniker": "blackapi\\example.appsettings.Development.json",
@@ -71,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\appsettings.json",
               "RelativeDocumentMoniker": "blackapi\\appsettings.json",
@@ -79,21 +193,19 @@
               "RelativeToolTip": "blackapi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T05:12:33.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T05:12:33.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "blackapi.http",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\blackapi.http",
               "RelativeDocumentMoniker": "blackapi\\blackapi.http",
               "ToolTip": "C:\\Github\\blackapi\\blackapi\\blackapi.http",
               "RelativeToolTip": "blackapi\\blackapi.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-04T05:12:29.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T05:12:29.981Z"
             }
           ]
         }
