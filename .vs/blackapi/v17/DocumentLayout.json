@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "blackapi\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Github\\blackapi\\blackapi\\Controllers\\UserController.cs",
               "RelativeToolTip": "blackapi\\Controllers\\UserController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADAAAAAGAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T06:04:24.591Z",
               "EditorCaption": ""
@@ -107,8 +107,7 @@
               "RelativeToolTip": "blackapi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T05:12:33.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T05:12:33.394Z"
             },
             {
               "$type": "Document",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "blackapi\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T08:29:52.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T08:29:52.653Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "blackapi\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T05:29:13.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T05:29:13.51Z"
             },
             {
               "$type": "Document",
@@ -146,8 +143,7 @@
               "RelativeToolTip": "blackapi\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T05:51:32.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T05:51:32.321Z"
             },
             {
               "$type": "Document",
@@ -159,8 +155,7 @@
               "RelativeToolTip": "blackapi\\Models\\ApiResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T07:19:37.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T07:19:37.571Z"
             },
             {
               "$type": "Document",
@@ -172,8 +167,7 @@
               "RelativeToolTip": "blackapi\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAwCAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T04:14:02.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T04:14:02.644Z"
             },
             {
               "$type": "Document",
@@ -185,8 +179,7 @@
               "RelativeToolTip": "blackapi\\blackapi.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-04T05:12:29.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T05:12:29.981Z"
             },
             {
               "$type": "Document",
@@ -198,8 +191,7 @@
               "RelativeToolTip": "blackapi\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAhwBgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T05:39:54.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T05:39:54.309Z"
             },
             {
               "$type": "Document",
@@ -223,8 +215,7 @@
               "RelativeToolTip": "blackapi\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T08:30:54.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T08:30:54.149Z"
             },
             {
               "$type": "Document",

@@ -66,7 +66,7 @@ namespace blackapi.Controllers
 
         #region 회원탈퇴
         // DELETE: api/user/delete
-        [HttpPost("delete")]
+        [HttpPost("deleteid")]
         public async Task<IActionResult> Delete([FromBody] User login)
         {
             // 유효성 검사
