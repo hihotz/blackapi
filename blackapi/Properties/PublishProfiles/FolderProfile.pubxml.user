@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Github\blackapi\blackapi\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-07-04T07:49:06.3084837Z||;True|2024-07-04T16:48:56.0326388+09:00||;True|2024-07-04T16:48:48.2597463+09:00||;True|2024-07-04T16:41:27.0482925+09:00||;True|2024-07-04T16:38:42.9714951+09:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

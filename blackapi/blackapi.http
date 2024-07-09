@@ -1,5 +1,8 @@
 @blackapi_HostAddress = http://localhost:5014
 
+// https://localhost:7199
+// http://localhost:5014
+
 GET {{blackapi_HostAddress}}/weatherforecast/
 Accept: application/json
 

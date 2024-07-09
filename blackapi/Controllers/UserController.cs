@@ -21,6 +21,7 @@ namespace blackapi.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] User user)
         {
+            // 유효성 검사
             if (ModelState.IsValid)
             {
                 var existingUser = await _context.Users
@@ -60,6 +61,33 @@ namespace blackapi.Controllers
             }
 
             return BadRequest(new ApiResponse(400, "Invalid login data."));
+        }
+        #endregion
+
+        #region 회원탈퇴
+        // DELETE: api/user/delete
+        [HttpPost("delete")]
+        public async Task<IActionResult> Delete([FromBody] User login)
+        {
+            // 유효성 검사
+            if (ModelState.IsValid)
+            {
+                var user = await _context.Users
+                    .FirstOrDefaultAsync(u => u.Username == login.Username && u.Password == login.Password);
+
+                if (user == null)
+                {
+                    return Unauthorized(new ApiResponse(401, "Invalid username or password."));
+                }
+
+                // 사용자 삭제
+                _context.Users.Remove(user);
+                await _context.SaveChangesAsync();
+
+                return Ok(new ApiResponse(200, "User deleted successfully."));
+            }
+
+            return BadRequest(new ApiResponse(400, "Invalid user data."));
         }
         #endregion
     }
