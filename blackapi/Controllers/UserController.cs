@@ -21,23 +21,29 @@ namespace blackapi.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] User user)
         {
-            // 유효성 검사
-            if (ModelState.IsValid)
+            try
             {
-                var existingUser = await _context.Users
-                    .FirstOrDefaultAsync(u => u.Username == user.Username);
-
-                if (existingUser != null)
+                // 유효성 검사
+                if (ModelState.IsValid)
                 {
-                    return BadRequest(new ApiResponse(400, "Username already exists."));
+                    var existingUser = await _context.Users
+                        .FirstOrDefaultAsync(u => u.Username == user.Username);
+
+                    if (existingUser != null)
+                    {
+                        return BadRequest(new ApiResponse(400, "Username already exists."));
+                    }
+
+                    _context.Users.Add(user);
+                    await _context.SaveChangesAsync();
+                    return Ok(new ApiResponse(200, "User registered successfully."));
                 }
-
-                _context.Users.Add(user);
-                await _context.SaveChangesAsync();
-                return Ok(new ApiResponse(200, "User registered successfully."));
+                return BadRequest(new ApiResponse(400, "Invalid user data."));
             }
-
-            return BadRequest(new ApiResponse(400, "Invalid user data."));
+            catch (Exception)
+            {
+                return BadRequest(new ApiResponse(400, "Server Exception - register"));
+            }
         }
         #endregion
 
@@ -46,21 +52,27 @@ namespace blackapi.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] User login)
         {
-            // 유효성 검사
-            if (ModelState.IsValid)
+            try
             {
-                var user = await _context.Users
-                    .FirstOrDefaultAsync(u => u.Username == login.Username && u.Password == login.Password);
-
-                if (user == null)
+                // 유효성 검사
+                if (ModelState.IsValid)
                 {
-                    return Unauthorized(new ApiResponse(401, "Invalid username or password."));
+                    var user = await _context.Users
+                        .FirstOrDefaultAsync(u => u.Username == login.Username && u.Password == login.Password);
+
+                    if (user == null)
+                    {
+                        return Unauthorized(new ApiResponse(401, "Invalid username or password."));
+                    }
+
+                    return Ok(new ApiResponse(200, "Login successful."));
                 }
-
-                return Ok(new ApiResponse(200, "Login successful."));
+                return BadRequest(new ApiResponse(400, "Invalid login data."));
             }
-
-            return BadRequest(new ApiResponse(400, "Invalid login data."));
+            catch (Exception)
+            {
+                return BadRequest(new ApiResponse(400, "Server Exception - login"));
+            }
         }
         #endregion
 
@@ -69,25 +81,70 @@ namespace blackapi.Controllers
         [HttpPost("deleteid")]
         public async Task<IActionResult> Delete([FromBody] User login)
         {
-            // 유효성 검사
-            if (ModelState.IsValid)
+            try
             {
-                var user = await _context.Users
-                    .FirstOrDefaultAsync(u => u.Username == login.Username && u.Password == login.Password);
-
-                if (user == null)
+                // 유효성 검사
+                if (ModelState.IsValid)
                 {
-                    return Unauthorized(new ApiResponse(401, "Invalid username or password."));
+                    var user = await _context.Users
+                        .FirstOrDefaultAsync(u => u.Username == login.Username && u.Password == login.Password);
+
+                    if (user == null)
+                    {
+                        return Unauthorized(new ApiResponse(401, "Invalid username or password."));
+                    }
+
+                    // 사용자 삭제
+                    _context.Users.Remove(user);
+                    await _context.SaveChangesAsync();
+
+                    return Ok(new ApiResponse(200, "User deleted successfully."));
+                }
+                return BadRequest(new ApiResponse(400, "Invalid user data."));
+            }
+            catch (Exception)
+            {
+                return BadRequest(new ApiResponse(400, "Server Exception - deleteid"));
+            }
+        }
+        #endregion
+
+        #region 비밀번호 변경
+        // POST: api/user/changepassword
+        [HttpPost("changepassword")]
+        public async Task<IActionResult> ChangePassword([FromBody] User_ChangePassword model)
+        {
+            try
+            {
+                // 유효성 검사
+                if (ModelState.IsValid)
+                {
+                    var user = await _context.Users
+                        .FirstOrDefaultAsync(u => u.Username == model.Username && u.Password == model.OldPassword);
+
+                    if (user == null)
+                    {
+                        return Unauthorized(new ApiResponse(401, "Invalid username or password."));
+                    }
+
+                    if (model.OldPassword == model.NewPassword)
+                    {
+                        return BadRequest(new ApiResponse(400, "New password cannot be the same as the old password."));
+                    }
+
+                    // 비밀번호 변경
+                    user.Password = model.NewPassword;
+                    await _context.SaveChangesAsync();
+
+                    return Ok(new ApiResponse(200, "Password changed successfully."));
                 }
 
-                // 사용자 삭제
-                _context.Users.Remove(user);
-                await _context.SaveChangesAsync();
-
-                return Ok(new ApiResponse(200, "User deleted successfully."));
+                return BadRequest(new ApiResponse(400, "Invalid data."));
             }
-
-            return BadRequest(new ApiResponse(400, "Invalid user data."));
+            catch (Exception)
+            {
+                return BadRequest(new ApiResponse(400, "Server Exception - changepassword"));
+            }
         }
         #endregion
     }

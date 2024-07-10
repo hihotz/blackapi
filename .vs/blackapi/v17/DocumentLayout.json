@@ -7,20 +7,28 @@
       "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\models\\user_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\models\\user_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +39,16 @@
       "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\blackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\blackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\example.appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\example.appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|solutionrelative:blackapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21469ECC-EC30-473C-8404-0125BB6B26B1}|blackapi\\blackapi.csproj|c:\\github\\blackapi\\blackapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -92,82 +96,23 @@
               "RelativeDocumentMoniker": "blackapi\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Github\\blackapi\\blackapi\\Controllers\\UserController.cs",
               "RelativeToolTip": "blackapi\\Controllers\\UserController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T06:04:24.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\appsettings.json",
-              "RelativeDocumentMoniker": "blackapi\\appsettings.json",
-              "ToolTip": "C:\\Github\\blackapi\\blackapi\\appsettings.json",
-              "RelativeToolTip": "blackapi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T05:12:33.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "blackapi\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "blackapi\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T08:29:52.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "blackapi\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "blackapi\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T05:29:13.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "blackapi\\Models\\User.cs",
-              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Models\\User.cs",
-              "RelativeToolTip": "blackapi\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T05:51:32.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Models\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "blackapi\\Models\\ApiResponse.cs",
-              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Models\\ApiResponse.cs",
-              "RelativeToolTip": "blackapi\\Models\\ApiResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T07:19:37.571Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "blackapi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "blackapi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAwCAAAAABAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Program.cs",
+              "RelativeDocumentMoniker": "blackapi\\Program.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Program.cs",
+              "RelativeToolTip": "blackapi\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T04:14:02.644Z"
+              "WhenOpened": "2024-07-04T05:39:54.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -179,19 +124,99 @@
               "RelativeToolTip": "blackapi\\blackapi.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-04T05:12:29.981Z"
+              "WhenOpened": "2024-07-04T05:12:29.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "blackapi\\Models\\User.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Models\\User.cs",
+              "RelativeToolTip": "blackapi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:51:32.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "blackapi\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "blackapi\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:19:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User_ChangePassword.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Models\\User_ChangePassword.cs",
+              "RelativeDocumentMoniker": "blackapi\\Models\\User_ChangePassword.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Models\\User_ChangePassword.cs",
+              "RelativeToolTip": "blackapi\\Models\\User_ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:18:12.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "blackapi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "blackapi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:14:02.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Program.cs",
-              "RelativeDocumentMoniker": "blackapi\\Program.cs",
-              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Program.cs",
-              "RelativeToolTip": "blackapi\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAhwBgAAAABAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "blackapi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "blackapi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T05:39:54.309Z"
+              "WhenOpened": "2024-07-04T05:29:13.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\appsettings.json",
+              "RelativeDocumentMoniker": "blackapi\\appsettings.json",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\appsettings.json",
+              "RelativeToolTip": "blackapi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T05:12:33.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "blackapi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Github\\blackapi\\blackapi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "blackapi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:29:52.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -201,13 +226,14 @@
               "RelativeDocumentMoniker": "blackapi\\example.appsettings.json",
               "ToolTip": "C:\\Github\\blackapi\\blackapi\\example.appsettings.json",
               "RelativeToolTip": "blackapi\\example.appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T05:13:43.366Z"
+              "WhenOpened": "2024-07-04T05:13:43.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "blackapi\\Views\\Home\\Index.cshtml",
@@ -219,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "blackapi\\WeatherForecast.cs",
@@ -231,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "blackapi.csproj",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\blackapi.csproj",
               "RelativeDocumentMoniker": "blackapi\\blackapi.csproj",
@@ -243,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "20240704063435_InitialCreate.cs",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Migrations\\20240704063435_InitialCreate.cs",
               "RelativeDocumentMoniker": "blackapi\\Migrations\\20240704063435_InitialCreate.cs",
@@ -255,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "blackapi\\Properties\\launchSettings.json",
@@ -267,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "blackapi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -279,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "blackapi\\appsettings.Development.json",
@@ -291,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "example.appsettings.Development.json",
               "DocumentMoniker": "C:\\Github\\blackapi\\blackapi\\example.appsettings.Development.json",
               "RelativeDocumentMoniker": "blackapi\\example.appsettings.Development.json",

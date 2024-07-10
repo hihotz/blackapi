@@ -10,3 +10,6 @@
   },
   "AllowedHosts": "*"
 }
+// My-SQL 연결 : "DefaultConnection": "Server=localhost;Database=데이터베이스이름;User=아이디;Password=비밀번호;"
+// Oracle 연결 : "DefaultConnection": "User Id=myUsername;Password=myPassword;Data Source=myOracleDB"
+// 오라클 연동시 Oracle.EntityFrameworkCore 패키지 설치필요
