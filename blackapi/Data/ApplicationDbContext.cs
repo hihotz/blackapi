@@ -11,5 +11,10 @@ namespace blackapi.Data
         }
 
         public DbSet<User> Users { get; set; }
+
+        // 마이그레이션
+        // dotnet ef migrations add ProductionTableCreate
+        // dotnet ef database update
+        public DbSet<Production> Productions { get; set; }
     }
 }
