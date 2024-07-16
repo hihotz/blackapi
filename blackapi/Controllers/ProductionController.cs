@@ -19,7 +19,7 @@ namespace blackapi.Controllers
         }
 
         // 전체 생산 목록을 반환합니다.
-        [HttpGet]
+        [HttpGet("getlist")]
         public async Task<ActionResult<IEnumerable<Production>>> GetProductions()
         {
             // 데이터베이스에서 모든 생산 항목을 비동기적으로 가져옵니다.
@@ -27,7 +27,7 @@ namespace blackapi.Controllers
         }
 
         // 특정 ID에 해당하는 생산 항목을 반환합니다.
-        [HttpGet("{id}")]
+        [HttpGet("getitem/{id}")]
         public async Task<ActionResult<Production>> GetProduction(int id)
         {
             // 데이터베이스에서 해당 ID의 생산 항목을 비동기적으로 찾습니다.
@@ -42,7 +42,7 @@ namespace blackapi.Controllers
         }
 
         // 새로운 생산 항목을 생성합니다.
-        [HttpPost]
+        [HttpPost("additem")]
         public async Task<ActionResult<ApiResponse>> PostProduction(Production production)
         {
             // 새 생산 항목을 데이터베이스에 추가합니다.
@@ -54,7 +54,7 @@ namespace blackapi.Controllers
         }
 
         // 기존 생산 항목을 수정합니다.
-        [HttpPut("{id}")]
+        [HttpPut("updateitem/{id}")]
         public async Task<ActionResult<ApiResponse>> PutProduction(int id, Production production)
         {
             // 요청된 ID와 생산 항목의 ID가 일치하지 않으면 잘못된 요청을 반환합니다.
@@ -88,7 +88,7 @@ namespace blackapi.Controllers
         }
 
         // 특정 ID의 생산 항목을 삭제합니다.
-        [HttpDelete("{id}")]
+        [HttpDelete("deleteitem/{id}")]
         public async Task<ActionResult<ApiResponse>> DeleteProduction(int id)
         {
             // 데이터베이스에서 해당 ID의 생산 항목을 비동기적으로 찾습니다.

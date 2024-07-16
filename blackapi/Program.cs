@@ -31,7 +31,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+// https 사용시 주석 해제
+//app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
